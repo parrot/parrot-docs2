@@ -1,0 +1,16 @@
+=head1 NAME
+
+README - Readme file for Parrot's 'parrot-docs2' documentation repository.
+
+=head1 DESCRIPTION
+
+The purpose of this README is to record the fact that this repository contains 
+the documentation for version 2.0.0 through version 2.11.0 of Parrot.  In 
+short, this repository is, in-the-main, about maintaining a set of all of 
+Parrot's documentation on github.
+
+=head1 COPYRIGHT
+
+Copyright (C) 2011, Parrot Foundation.
+
+=cut
